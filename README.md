@@ -14,7 +14,7 @@ Arduino Sketch projects for embedded AI courses
    The gyro sensor build-in with the Nano board also provide additional navagation controls, e.g. when turn left, the Nano board controls turn 90 deg only.
 3. Software
    
-   The programming is based on Arduino IDE with programming language C++.
+   The programming is based on Arduino IDE with programming language C/C++.
    The voice model is pre-trained using Picovoice library (English). Programming of the voice model can be found in the link https://picovoice.ai/
 4. Links
 
